@@ -1,7 +1,7 @@
-Tatvasoft Summer Internship
+*Tatvasoft Summer Internship*
 
-Student Name : Vishwa Acharya
+Student Name : **Vishwa Acharya**
 
-Enrollment Number : 220170116001
+Enrollment Number : **220170116001**
 
-College Name : Vishwakarma Government Engineering College (VGEC)
+College Name : **Vishwakarma Government Engineering College (VGEC)**
